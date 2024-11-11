@@ -40,7 +40,3 @@ behaviors:
     summary_freq: 5000
     threaded: false
     self_play: null
-    behavioral_cloning:
-      demo_path: "recordingpinkp1.demo"
-      strength: 0.9
-      steps: 100000
