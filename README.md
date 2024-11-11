@@ -1,6 +1,6 @@
 ## Comfort-RL (Robotic-learnig)
 
-Discover Comfort Robotic-Learning, an environment for developing robotic agents that take human comfort into account via reinforcement learning environment, built with Unity for high-quality visuals and smooth integration with other RL libraries. **Coming soon. October 2024**
+Discover Comfort Robotic-Learning, an environment for developing robotic agents that take human comfort into account via reinforcement learning environment, built with Unity for high-quality visuals and smooth integration with other RL libraries. **Coming soon. Beta Release NOW**
 
 <img src="utils_readme/gif_1.gif" alt="RoboticGIF" width="400"/>
 
