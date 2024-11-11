@@ -6,8 +6,9 @@ This folder contains the pre-release version of the training environment for our
 
 To initiate training, ensure you have the [ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents) installed and configured. For training, simply run the following command:
 
-```bash
-mlagents-learn trainer_config_SAC.yaml --run-id=<your_run_id> --env=PreRelease1_0.exe 
+
+`mlagents-learn trainer_config_SAC.yaml --run-id=<your_run_id> --env=PreRelease1_0.exe`
+
 
 Replace `your_run_id` with a unique identifier for this training session. The configuration file (`trainer_config_SAC.yaml`) can be adjusted according to your specific training requirements, including hyperparameters, reward signals, and more.
 
