@@ -1,0 +1,60 @@
+{
+    "goals": {
+      "precisionGoal": 3.0
+    },
+    "penalties": {
+      "activatePenalty": false
+    },
+    "phases": {
+      "startInFirstPhaseOnly": false,
+      "startInSecondPhaseOnly": false,
+      "startInThirdPhaseOnly": false,
+      "activateThirdPhase": false
+    },
+    "humanInteraction": {
+      "humanMove": true,
+      "personMovement": false,
+      "teleportationDistance": 0.015,
+      "humanMovementMax": 0.5,
+      "spawnHuman": [0]
+    },
+    "environment": {
+      "pinktablePosition": {
+        "x": 3.9498484134674074,
+        "y": -0.7431505918502808,
+        "z": -4.255302429199219
+      },
+      "greytablePosition": {
+        "x": 3.9498484134674074,
+        "y": -0.7431505918502808,
+        "z": -4.255302429199219
+      },
+      "orangetablePosition": {
+        "x": 3.9498484134674074,
+        "y": -0.7431505918502808,
+        "z": -4.255302429199219
+      },
+      "colorBall": 1,
+      "routeSaveFile": "save_file.txt",
+      "numberOfEnvs": 4
+    },
+    "comfortParameters": {
+      "temperature": 1.0,
+      "numberOfComfortLevels": 10.0,
+      "currentComfortLevel": 5.0,
+      "distanceMaxThreshold": 1.5,
+      "alpha": 1,
+      "beta": 0
+    },
+    "miscellaneous": {
+      "randomStart": false,
+      "clipPositionPerson": false,
+      "singleTrainingOnly": false,
+      "checkVR_socket": false,
+      "saveResults": false,
+      "numberOfCameras": 2,
+      "pathToSaveRealRobot": "name.txt",
+      "switcher": false
+    }
+  }
+  
