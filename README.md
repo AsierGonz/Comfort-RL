@@ -16,7 +16,7 @@ The release version will feature various robotic environments generated through 
 - Executable environment files for testing and training algorithms
 - Comprehensive explanation of the configuration, personalization, and training parameters
 - Multiple environments for testing (simple tasks and complex tasks!)
-- Comfort function available for agents to act according to the user's comfort level (In depth explanation on expected paper)
+- Comfort function available for agents to act according to the user's comfort level (In depth explanation on 10.1109/ACCESS.2024.3451663)
 - Interactive environment for users to test the trained agents
 - Source code available via another GitHub repository for advanced users to modify as desired
 
