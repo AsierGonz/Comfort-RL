@@ -9,7 +9,6 @@ The environment is built in Unity, using the ML-Agents Toolkit for training inte
 ## First Release Version Notes
 
 - The full Unity working source code is provided, allowing users to make changes, adjustments, and retrain agents as needed. Code is not fully cleaned and not fully commented. Expect a better coding and comments during first months of 2025,
-- 
 - The current PreRelease executable version provides a preview of the environment and its capabilities (.exe). It may contain minor issues during training, but it serves as an early access for users to explore and provide feedback. 
 
 - The PreRelease and Source code version  also include several environments with different configurations. Some versions may be missing configuration files or folders to simplify testing in specific scenarios.
