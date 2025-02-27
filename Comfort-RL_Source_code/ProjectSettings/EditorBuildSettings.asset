@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/TrainingTest.unity
+    guid: d44feb81824f716459a0a5a5d93c2434
+  - enabled: 0
+    path: Assets/Scenes/ReadyToTrain.unity
+    guid: ebce605756feb794ab62a10168af2915
+  - enabled: 0
+    path: Assets/Scenes/VR_ENV.unity
+    guid: d583d5771687e834b8d6c2a4d06eca1f
+  - enabled: 0
+    path: Assets/Scenes/INDUSTRIAL_VR_ENV.unity
+    guid: c0bd895a49f197245ad8100baf9d5c2d
+  - enabled: 0
+    path: Assets/CyberneticWalrus/Factory_Interior/Scenes/Factory_Interior.unity
+    guid: eda0b8fb7e8c03642a26d0c819eb1630
+  - enabled: 0
+    path: Assets/Scenes/MultiPointWORKONG.unity
+    guid: 6d0cffd2e967cd24aac45fa545251333
+  - enabled: 0
+    path: Assets/Scenes/VR_Exp.unity
+    guid: 7701387d29b22644c96c54bf8fe85546
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0159f484e301c0c4e9e9321948687cdd, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 115d2070a4b6c534bba91b72073f6f3a, type: 2}
