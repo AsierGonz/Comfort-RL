@@ -17,7 +17,7 @@ The environment is built in Unity, using the ML-Agents Toolkit for training inte
 The upcoming release version will feature various robotic environments generated through executable files, allowing easy and direct training with extensive customization. These environments support training agents with ML-Agents and other machine learning libraries. The first release around **Mid 2025** will include the following features:
 - Executable environment files for testing and training algorithms
 - Comprehensive explanation of the configuration, personalization, and training parameters
-- Multiple environments for testing (simple tasks and complex tasks!) - Already available via source code. ** Soon arriving more complex and visual setups **
+- Multiple environments for testing (simple tasks and complex tasks!) - Already available via source code. **Soon arriving more complex and visual setups**
 - Comfort function available for agents to act according to the user's comfort level (In depth explanation on [paper](https://ieeexplore.ieee.org/document/10658649))
 - Interactive environment for users to test the trained agents (VR) 
 
