@@ -1,0 +1,29 @@
+{
+    "CobotAgent": {
+        "checkpoints": [
+            {
+                "steps": 44402,
+                "file_path": "results\\terceraPruebaCobot\\CobotAgent\\CobotAgent-44402.onnx",
+                "reward": -0.06252258416525153,
+                "creation_time": 1698072405.8172328,
+                "auxillary_file_paths": [
+                    "results\\terceraPruebaCobot\\CobotAgent\\CobotAgent-44402.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 44402,
+            "file_path": "results\\terceraPruebaCobot\\CobotAgent.onnx",
+            "reward": -0.06252258416525153,
+            "creation_time": 1698072405.8172328,
+            "auxillary_file_paths": [
+                "results\\terceraPruebaCobot\\CobotAgent\\CobotAgent-44402.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.13.1+cu117"
+    }
+}

@@ -1,0 +1,59 @@
+{
+  "goals": {
+    "precisionGoal": 3.0
+  },
+  "penalties": {
+    "activatePenalty": false
+  },
+  "phases": {
+    "startInFirstPhaseOnly": false,
+    "startInSecondPhaseOnly": false,
+    "startInThirdPhaseOnly": false,
+    "activateThirdPhase": true
+  },
+  "humanInteraction": {
+    "humanMove": false,
+    "personMovement": false,
+    "teleportationDistance": 0.015,
+    "humanMovementMax": 0.5,
+    "spawnHuman": [6]
+  },
+  "environment": {
+    "pinktablePosition": {
+      "x": 3.9498484134674074,
+      "y": -0.7431505918502808,
+      "z": -4.255302429199219
+    },
+    "greytablePosition": {
+      "x": 3.9498484134674074,
+      "y": -0.7431505918502808,
+      "z": -4.255302429199219
+    },
+    "orangetablePosition": {
+      "x": 3.9498484134674074,
+      "y": -0.7431505918502808,
+      "z": -4.255302429199219
+    },
+    "colorBall": 1,
+    "routeSaveFile": "save_file.txt",
+    "numberOfEnvs": 4
+  },
+  "comfortParameters": {
+    "temperature": 0.0,
+    "numberOfComfortLevels": 10.0,
+    "currentComfortLevel": 8.0,
+    "distanceMaxThreshold": 1.5,
+    "alpha": 1,
+    "beta": 0
+  },
+  "miscellaneous": {
+    "randomStart": false,
+    "clipPositionPerson": false,
+    "singleTrainingOnly": true,
+    "checkVR_socket": false,
+    "saveResults": false,
+    "numberOfCameras": 2,
+    "pathToSaveRealRobot": "Assets/Positions/trayectory_oficial_far_ignacio_good.txt",
+    "switcher": true
+  }
+}

@@ -1,0 +1,56 @@
+{
+    "CobotAgent": {
+        "checkpoints": [
+            {
+                "steps": 22006,
+                "file_path": "results\\quintaPruebaCobot\\CobotAgent\\CobotAgent-22006.onnx",
+                "reward": -18.397384080019865,
+                "creation_time": 1698073926.0692227,
+                "auxillary_file_paths": [
+                    "results\\quintaPruebaCobot\\CobotAgent\\CobotAgent-22006.pt"
+                ]
+            },
+            {
+                "steps": 393696,
+                "file_path": "results\\quintaPruebaCobot\\CobotAgent\\CobotAgent-393696.onnx",
+                "reward": 43.05892688670057,
+                "creation_time": 1698084582.4601603,
+                "auxillary_file_paths": [
+                    "results\\quintaPruebaCobot\\CobotAgent\\CobotAgent-393696.pt"
+                ]
+            },
+            {
+                "steps": 499979,
+                "file_path": "results\\quintaPruebaCobot\\CobotAgent\\CobotAgent-499979.onnx",
+                "reward": -1.568596855386511,
+                "creation_time": 1698146304.3038492,
+                "auxillary_file_paths": [
+                    "results\\quintaPruebaCobot\\CobotAgent\\CobotAgent-499979.pt"
+                ]
+            },
+            {
+                "steps": 981112,
+                "file_path": "results\\quintaPruebaCobot\\CobotAgent\\CobotAgent-981112.onnx",
+                "reward": 3.8519623027620806,
+                "creation_time": 1698152657.4020078,
+                "auxillary_file_paths": [
+                    "results\\quintaPruebaCobot\\CobotAgent\\CobotAgent-981112.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 981112,
+            "file_path": "results\\quintaPruebaCobot\\CobotAgent.onnx",
+            "reward": 3.8519623027620806,
+            "creation_time": 1698152657.4020078,
+            "auxillary_file_paths": [
+                "results\\quintaPruebaCobot\\CobotAgent\\CobotAgent-981112.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.13.1+cu117"
+    }
+}
