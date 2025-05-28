@@ -22,8 +22,8 @@ Within the `config` folder, there is a JSON file that allows you to modify param
 - A compatible version of Unity for the environment
 - Python 3.x with the required dependencies as outlined in the ML-Agents documentation
 
-### Future Release
+### Final Release
 
-In the final release, a comprehensive repository will be provided, including the complete source code for the environment. This will enable greater customization, simplify modifications to the environment, and provide clearer insights into the underlying structure and functionality. Feel free to reach out if you need any support before the final release. 
+In the final release, a comprehensive repository is be provided, including the complete source code for the environment. This will enable greater customization, simplify modifications to the environment, and provide clearer insights into the underlying structure and functionality. Feel free to reach out if you need any support before the final release. 
 
 Happy training!
